@@ -10,7 +10,9 @@ The Southern African Radiocarbon Database (SARD) is a new online, open-access da
 ![FIGURE1_revised](https://user-images.githubusercontent.com/36149746/133086879-26ff76dd-8144-425c-a52b-4eb6b2eb953a.jpg)
 **Histogram of all dates in the database through time, showing the increase in dates for the late Holocene.**
 
-Description of fields:
+The 14C data and references are included as csv files and together in an excel file. The excel file also includes a sheet with non-14C dates (OSL, etc), collected non-systematically. 
+
+**Description of fields:
 * Site code: Unique 3 letter code
 * DecdegS:	Latitude in decimal degrees
 * DecdegE:	Longitude in decimal degrees
