@@ -1,5 +1,5 @@
 # Southern-African-Radiocarbon-Database
-Data for the Southern African Radiocarbon Database hosted by Oxford Radiocabon Accelerator Unit and integrated with OxCal (https://c14.arch.ox.ac.uk/sadb/db - OxCal login required). 
+Data for the Southern African Radiocarbon Database hosted by Oxford Radiocabon Accelerator Unit and integrated with OxCal (https://c14.arch.ox.ac.uk/sadb/db - OxCal login required). The database currently features c. 2700 dates, spanning the full 14C range. 
 
 See Loftus et al., 2019, An archaeological radiocarbon database for southern Africa. Antiquity. (https://doi.org/10.15184/aqy.2019.75). 
 The database has been updated since publication but the descriptions and conclusions are largely unchanged.  
@@ -13,7 +13,7 @@ The Southern African Radiocarbon Database (SARD) is a new online, open-access da
 ![FIGURE1_revised](https://user-images.githubusercontent.com/36149746/133086879-26ff76dd-8144-425c-a52b-4eb6b2eb953a.jpg)
 **Histogram of all dates in the database through time, showing the increase in dates for the late Holocene.**
 
-The 14C data and references are included as csv files and together in an excel file. The excel file also includes a sheet with non-14C dates (OSL, etc), collected non-systematically. 
+The 14C data and references are provided as separate csv files, and together in an excel file. The excel file also includes a sheet with non-14C dates (OSL, etc), collected non-systematically. 
 
 **Description of fields**
 
@@ -26,7 +26,7 @@ The 14C data and references are included as csv files and together in an excel f
 * Biome: According to the SANBI National Vegetation Map (SA specific)
 * Stratigraphic context:	Site specific detail - strat units, etc
 * Dating technique:	AMS vs conventional 
-* Material dated: Charcoal, collagen, etc.	Esp. note if marine derived
+* Material dated: Follows the ORAU database categories, charcoal, bone, etc.	Esp. note if marine derived for calibration.
 * Species:	Scientific name
 * Lab ID: Unique 14C lab ID
 * Date: date in radiocarbon years BP
@@ -37,5 +37,5 @@ The 14C data and references are included as csv files and together in an excel f
 * Site Type:	rock shelter, open air, burial, etc.
 * delta 13:	Stable carbon isotope value, if available.
 * refcode:	Unique code for citation reference, see ref sheet.
-* Notes:	Especially notes if researcher considered it unreliable
+* Notes:	Especially notes if researcher considered date unreliable
 
