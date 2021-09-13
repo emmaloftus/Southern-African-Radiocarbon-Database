@@ -1,5 +1,8 @@
 # Southern-African-Radiocarbon-Database
-Data for the Southern African Radiocarbon Database hosted by Oxford Radiocabon Accelerator Unit and integrated with OxCal (https://c14.arch.ox.ac.uk/sadb/db - OxCal login required). See Loftus et al., 2019, An archaeological radiocarbon database for southern Africa. Antiquity. (https://doi.org/10.15184/aqy.2019.75). The database has been updated since publication but the descriptions and conclusions are largely unchanged.  
+Data for the Southern African Radiocarbon Database hosted by Oxford Radiocabon Accelerator Unit and integrated with OxCal (https://c14.arch.ox.ac.uk/sadb/db - OxCal login required). 
+
+See Loftus et al., 2019, An archaeological radiocarbon database for southern Africa. Antiquity. (https://doi.org/10.15184/aqy.2019.75). 
+The database has been updated since publication but the descriptions and conclusions are largely unchanged.  
 
 ![FIGURE2_v2](https://user-images.githubusercontent.com/36149746/133087135-69d27e09-50a6-46d0-beb5-aa90fa944486.jpg)
 **Spatial distribution of dates across southern Africa, showing the preponderance of dates in South Africa, and large areas with no published dates available.**
@@ -12,7 +15,8 @@ The Southern African Radiocarbon Database (SARD) is a new online, open-access da
 
 The 14C data and references are included as csv files and together in an excel file. The excel file also includes a sheet with non-14C dates (OSL, etc), collected non-systematically. 
 
-**Description of fields:
+**Description of fields**
+
 * Site code: Unique 3 letter code
 * DecdegS:	Latitude in decimal degrees
 * DecdegE:	Longitude in decimal degrees
